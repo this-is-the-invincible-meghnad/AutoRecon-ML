@@ -11,6 +11,16 @@
 
 ## 🛠️ Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AutoRecon-ML.git](https://github.com/YOUR_USERNAME/AutoRecon-ML.git)
+git clone [https://github.com/this-is-the-invincible-meghnad/AutoRecon-ML.git](https://github.com/this-is-the-invincible-meghnad/AutoRecon-ML.git)
 cd AutoRecon-ML
 pip install -r requirements.txt
+
+---
+## ⚠️ Legal Disclaimer
+*AutoRecon-ML* is created for *Educational Purposes Only*.
+
+* This tool is intended to be used only on systems you own or have explicit permission to test.
+* The author is not responsible for any illegal use of this tool.
+* Scanning targets without consent is illegal and punishable by law.
+
+*By using this software, you agree to take full responsibility for your actions.*
