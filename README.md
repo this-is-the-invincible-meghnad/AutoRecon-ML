@@ -1,6 +1,6 @@
 # AutoRecon-ML: AI-Powered Reconnaissance Tool 🛡️
 
-**AutoRecon-ML** is an automated footprinting and reconnaissance tool designed for Ethical Hackers and Penetration Testers. It automates the "boring" parts of the CEH v13 methodology using Python and Machine Learning.
+**AutoRecon-ML** is an automated footprinting and reconnaissance tool designed for Ethical Hackers and Penetration Testers. It automates the "boring" parts of the CEH methodology using Python and Machine Learning.
 
 ## 🚀 Features
 * **Passive Recon:** Scrapes subdomains using Certificate Transparency logs (`crt.sh`) without touching the target.
@@ -14,13 +14,3 @@
 git clone [https://github.com/this-is-the-invincible-meghnad/AutoRecon-ML.git](https://github.com/this-is-the-invincible-meghnad/AutoRecon-ML.git)
 cd AutoRecon-ML
 pip install -r requirements.txt
-
----
-## ⚠️ Legal Disclaimer
-*AutoRecon-ML* is created for *Educational Purposes Only*.
-
-* This tool is intended to be used only on systems you own or have explicit permission to test.
-* The author is not responsible for any illegal use of this tool.
-* Scanning targets without consent is illegal and punishable by law.
-
-*By using this software, you agree to take full responsibility for your actions.*
